@@ -51,5 +51,5 @@ class Test(unittest.TestCase):  # Юниты, чтобьы просто пров
         city = CityGrid(rows, columns)
         city.display_grid()
 
-if __name__ == '__main__':
+if __name__ == '__main__': # запуск 
     unittest.main()
